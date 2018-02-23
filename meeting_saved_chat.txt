@@ -1,0 +1,652 @@
+19:03:22	 From  Luis Marta : Boa Noite, pessoal
+19:03:25	 From  Guilherme Calcette  to  All panelists : salve .... boa noiteee
+19:03:28	 From  Paulo Souza  to  All panelists : Boa
+19:03:46	 From  Marcio Mansur  to  All panelists : boa noite
+19:03:55	 From  Carlos Augusto Malucelli : :)
+19:04:04	 From  Alexsandro Pereira  to  All panelists : Opaaaaaaaa
+19:04:17	 From  Ericsson de Lima  to  All panelists : boa noite
+19:05:08	 From  Alexsandro Pereira  to  All panelists : boa noite
+19:06:28	 From  Carlos Augusto Malucelli : tranquilo
+19:06:44	 From  Sergio Pereira  to  Jeferson Fernando Noronha(Privately) : aumenta seu audio
+19:06:55	 From  Alexsandro Pereira  to  All panelists : boenas!! ancioso pra saber o que irems ver hoje rs..
+19:06:57	 From  Luiz Doniec  to  All panelists : td firmeza
+19:06:59	 From  Francislei Silva : Boa noite à todos. Blz?
+19:07:05	 From  Davi Gomes : Boa noite pessoal
+19:07:11	 From  Davi Gomes : tá melhor Jeferson?
+19:07:50	 From  darianoSOARES  to  All panelists : boa noite 
+19:08:21	 From  Pedro Vara : Boa noite galera
+19:09:09	 From  Jeferson Fernando Noronha  to  Sergio Pereira(Privately) : https://labs.play-with-k8s.com/
+19:09:42	 From  Carlos Augusto Malucelli : nada
+19:09:46	 From  Carlos Augusto Malucelli : agora sim
+19:09:48	 From  Alexsandro Pereira  to  All panelists : agor asim
+19:09:50	 From  Alexsandro Pereira  to  All panelists : sim
+19:10:32	 From  Alexsandro Pereira  to  All panelists : que coisa chique em
+19:11:06	 From  Francislei Silva : Ah se eu soubesse desse link ontem….rsrsrs
+19:11:08	 From  Carlos Augusto Malucelli : eh o mesmo esquema do swarm la
+19:11:10	 From  Guilherme Calcette  to  All panelists : docker tinha um esquema desses ae
+19:12:03	 From  Nelson Rodrigues Estevam Junior  to  All panelists : opa
+19:12:53	 From  Luiz Doniec  to  All panelists : show de bola
+19:13:13	 From  Sergio Pereira  to  All panelists : Jefferson... queria fazer o master em windows 2016 core.. e possivel
+19:13:56	 From  Alexsandro Pereira  to  All panelists : manda o like pleasee
+19:13:59	 From  Alexsandro Pereira  to  All panelists : link
+19:14:09	 From  Pedro Vara : https://labs.play-with-k8s.com
+19:14:10	 From  Paulo Souza  to  All panelists : e jovem
+19:14:10	 From  Jeferson Fernando Noronha  to  Sergio Pereira(Privately) : https://labs.play-with-k8s.com/
+19:14:13	 From  Sergio Pereira  to  Jeferson Fernando Noronha(Privately) : kkk
+19:14:15	 From  Alexsandro Pereira  to  All panelists : thz!!
+19:14:15	 From  Jeferson Fernando Noronha  to  All panelists : https://labs.play-with-k8s.com/
+19:14:27	 From  luciano Diniz  to  All panelists : me poe na sala
+19:15:13	 From  Rousseau Braga  to  All panelists : sem audio 
+19:15:40	 From  Alexsandro Pereira  to  All panelists : so nao vimos como escolher nossa port
+19:15:44	 From  Paulo Souza  to  All panelists : aqui normal Rouseau
+19:15:51	 From  Rousseau Braga  to  All panelists : ja resolvi 
+19:15:54	 From  Rousseau Braga  to  All panelists : valeu 
+19:15:55	 From  Paulo Souza  to  All panelists : show
+19:19:13	 From  Pedro Vara : kkkkkkkkkkkkkkk
+19:21:24	 From  Alexsandro Pereira  to  All panelists : ebaa NFS sim
+19:21:49	 From  Paulo Souza  to  All panelists : sim
+19:21:51	 From  Luis Marta : sim
+19:21:51	 From  Luiz Doniec  to  All panelists : sim
+19:21:51	 From  Francislei Silva : s
+19:21:54	 From  Carlos Augusto Malucelli : s
+19:21:55	 From  Alexsandro Pereira  to  All panelists : sim
+19:22:39	 From  Paulo Souza  to  All panelists : tava demorando
+19:23:46	 From  Pedro Vara : Ta bom
+19:23:47	 From  Carlos Augusto Malucelli : s
+19:23:48	 From  Davi Gomes : sim
+19:23:49	 From  Alexsandro Pereira  to  All panelists : bomm
+19:23:49	 From  Guilherme Calcette  to  All panelists : ae 
+19:23:51	 From  Francislei Silva : bão
+19:23:52	 From  Marcio Mansur  to  All panelists : sim
+19:23:54	 From  Luiz Doniec  to  All panelists : s
+19:23:54	 From  Alexsandro Pereira  to  All panelists : sim
+19:23:55	 From  Kaio Nascimento  to  All panelists : de boa
+19:23:56	 From  Luis Marta : sim
+19:23:57	 From  RobsonGuedes  to  All panelists : SIM
+19:24:51	 From  Luiz Doniec  to  All panelists : vexe não sei man
+19:24:54	 From  Rousseau Braga  to  All panelists : onde pesquisa as imagens para kubernetes?? 
+19:24:59	 From  Luiz Doniec  to  All panelists : deve ser do docker hub msm
+19:30:01	 From  Guilherme Calcette  to  All panelists : O mestre dos metres . ativa as linhas ai depois para facilitar minha vida 
+19:30:09	 From  Carlos Augusto Malucelli : nos sefllink
+19:30:15	 From  Guilherme Calcette  to  All panelists : isso
+19:30:15	 From  Carlos Augusto Malucelli : tem que virar ningx2 tmb, nao?
+19:30:33	 From  Guilherme Calcette  to  All panelists : OBRIGAO kkk
+19:30:51	 From  Carlos Augusto Malucelli : aa sim mas vc mudou ali
+19:30:58	 From  Carlos Augusto Malucelli : boa
+19:35:45	 From  Bruno Medico  to  All panelists : na linha 37 nao tem que colocar nginx2 ?
+19:36:03	 From  Bruno Medico  to  All panelists : 36 
+19:36:04	 From  Bruno Medico  to  All panelists : :)
+19:37:38	 From  Sergio Pereira  to  All panelists : cortou seu audio
+19:37:42	 From  Alexsandro Pereira  to  All panelists : é
+19:37:47	 From  Alexsandro Pereira  to  All panelists : aqui tb
+19:37:48	 From  Guilherme Calcette  to  All panelists : get rs
+19:37:51	 From  Bruno Medico  to  All panelists : replicaset
+19:37:55	 From  Bruno Medico  to  All panelists : ta cortando muito man
+19:38:16	 From  Sergio Pereira  to  All panelists : quero saber em qual node ta rodando o pod
+19:39:20	 From  Sergio Pereira  to  All panelists : valeu
+19:39:52	 From  Davi Gomes : Ele roda no master mesmo usando o taint?
+19:40:39	 From  Alexsandro Pereira  to  All panelists : ue
+19:40:47	 From  Alexsandro Pereira  to  All panelists : este utimo
+19:41:08	 From  Alexsandro Pereira  to  All panelists : entendi
+19:41:17	 From  Marcio Mansur  to  All panelists : o label vai ser utilizado para montar queries com os pods, cerrto?
+19:41:32	 From  Bruno Medico  to  All panelists : taint 
+19:46:47	 From  Carlos Augusto Malucelli : aaaa ta por isso meui RS 3 nao ficou ready
+19:47:21	 From  Alexsandro Pereira  to  All panelists : interessante
+19:48:26	 From  Alexsandro Pereira  to  All panelists : bemm intessante...
+19:49:08	 From  Francislei Silva : Jeferson, tem como configurar variáveis de ambiente nesse yaml?
+19:49:39	 From  Carlos Augusto Malucelli : mto bom mesmo :D
+19:50:10	 From  Alexsandro Pereira  to  All panelists : eu poderia subir nos de varias qualidades
+19:50:13	 From  Guilherme Calcette  to  All panelists : PQP que foda
+19:50:24	 From  Alexsandro Pereira  to  All panelists : e orquestrar quais serviços vao pra cada nó
+19:50:36	 From  Guilherme Calcette  to  All panelists : sim muito dahora. 
+19:50:36	 From  Alexsandro Pereira  to  All panelists : muito interessante....
+19:50:45	 From  Alexsandro Pereira  to  All panelists : isto vai ser bom pra gerenciar custo
+19:50:53	 From  Guilherme Calcette  to  All panelists : voce não precisa ter 4 master k8s um para cada ambiente haha
+19:52:34	 From  Luis Marta : se trocar o label ele reprovisiona os pods?
+19:52:56	 From  Alexsandro Pereira  to  All panelists : boa pergunta
+19:53:07	 From  Alexsandro Pereira  to  All panelists : deveria
+19:53:16	 From  Alexsandro Pereira  to  All panelists : isto vai ajudar na manutençao
+19:53:19	 From  Carlos Augusto Malucelli : edita no hot ja
+19:55:07	 From  Carlos Augusto Malucelli : fino!
+19:55:23	 From  Davi Gomes : 2
+19:55:24	 From  Guilherme Calcette  to  All panelists : criou no mesmo node não ?
+19:55:25	 From  Guilherme Calcette  to  All panelists : kkk
+19:57:13	 From  Carlos Augusto Malucelli : se vc mudar direto o label do node ...
+19:57:23	 From  Carlos Augusto Malucelli : ele vai mudar tbm ? ...
+19:57:35	 From  Guilherme Calcette  to  All panelists : eta porra
+19:57:48	 From  Carlos Augusto Malucelli : ex .. trocar 2 labels de 2 nodes .. inverter um com o outro
+19:58:11	 From  Alexsandro Pereira  to  All panelists : no é possible.....
+19:58:20	 From  Alexsandro Pereira  to  All panelists : estranho
+19:58:27	 From  Paulo Souza  to  All panelists : suspeitei
+19:58:34	 From  Alexsandro Pereira  to  All panelists : tinha que ter alguma estrategica 
+19:59:10	 From  Carlos Augusto Malucelli : sempre com - na frente remove
+19:59:12	 From  Carlos Augusto Malucelli : boa
+19:59:20	 From  Alexsandro Pereira  to  All panelists : ue
+20:00:01	 From  Alexsandro Pereira  to  All panelists : mas remover
+20:00:04	 From  Alexsandro Pereira  to  All panelists : vai ter 
+20:00:11	 From  Alexsandro Pereira  to  All panelists : ter....
+20:00:13	 From  Alexsandro Pereira  to  All panelists : down
+20:00:14	 From  Alexsandro Pereira  to  All panelists : time
+20:00:46	 From  Alexsandro Pereira  to  All panelists : sim
+20:02:59	 From  Carlos Augusto Malucelli : mudei os labels dos nos hot e nem mexeu nos pods
+20:03:12	 From  Carlos Augusto Malucelli : "nós" hot*
+20:03:22	 From  Carlos Augusto Malucelli : inverti os 2
+20:03:24	 From  Carlos Augusto Malucelli : mas nada
+20:03:39	 From  Alexsandro Pereira  to  All panelists : kubectrl refresh rs..
+20:04:02	 From  Bruno Medico  to  All panelists : nome ?
+20:05:38	 From  Alexsandro Pereira  to  All panelists : bacana em.... isto no swarm deve ser chato de fazer
+20:06:11	 From  Bruno Medico  to  All panelists : agora de vc trocar o label.. sera que el vai criar ?
+20:06:11	 From  Alexsandro Pereira  to  All panelists : e de vizualizar
+20:06:49	 From  Alexsandro Pereira  to  All panelists : óoo
+20:07:03	 From  Alexsandro Pereira  to  All panelists : com daemon funciona
+20:07:15	 From  Davi Gomes : taint
+20:07:15	 From  Bruno Medico  to  All panelists : alterações ?
+20:07:20	 From  Alexsandro Pereira  to  All panelists : porque ja tinha 1
+20:07:45	 From  Alexsandro Pereira  to  All panelists : bom pra saber o impcto no nó
+20:07:52	 From  Alexsandro Pereira  to  All panelists : no cluster*
+20:08:32	 From  Alexsandro Pereira  to  All panelists : isto vai ser bom pra trabalhar com multcloud
+20:09:33	 From  Bruno Medico  to  All panelists : nao ta a mesma coisa?
+20:09:54	 From  Bruno Medico  to  All panelists : ah pensei que ele mostrar o que foi alterado
+20:10:00	 From  Alexsandro Pereira  to  All panelists : um diff faz falta
+20:10:04	 From  Alexsandro Pereira  to  All panelists : sim
+20:10:12	 From  Alexsandro Pereira  to  All panelists : simm
+20:10:15	 From  Luis Marta : sim
+20:10:16	 From  Alexsandro Pereira  to  All panelists : mascnao cvai?
+20:10:34	 From  Alexsandro Pereira  to  All panelists : oiaaa
+20:11:01	 From  Carlos Augusto Malucelli : no replicaset nao tem rollout history 0o ?
+20:11:03	 From  Alexsandro Pereira  to  All panelists : resumindo... com deamon responde as mudan;cas e com replicaset nao?
+20:11:12	 From  Bruno Medico  to  All panelists : como que preenche aquele change-cause ?
+20:11:16	 From  Carlos Augusto Malucelli : error: no history viewer has been implemented for "ReplicaSet.extensions"
+20:11:31	 From  Marcio Mansur  to  All panelists : então, pode se dizer que:
+20:11:35	 From  Carlos Augusto Malucelli : explicado
+20:11:36	 From  Carlos Augusto Malucelli : esquece
+20:11:39	 From  Paulo Souza  to  All panelists : cabeça doi de tanta informação
+20:11:54	 From  Marcio Mansur  to  All panelists : daemonset: serviço em background, como log e monitor, replicaset: para serviços "expostos"
+20:12:12	 From  Carlos Augusto Malucelli : aaaaaa ta
+20:12:17	 From  Carlos Augusto Malucelli : se vc colocar direto replicaset nao rola
+20:12:22	 From  Carlos Augusto Malucelli : tem que ser deployment
+20:12:47	 From  Bruno Medico  to  All panelists : jefff... tem como colocar comentarios .. para mostrar o que foi alterado ?
+20:16:47	 From  Jeferson Fernando Noronha  to  All panelists : root@elliot-01:~# # kubectl run nginx --image nginx --port 80
+root@elliot-01:~# # kubectl get deployment nginx -o yaml > deploy_nginx.yaml
+root@elliot-01:~# # vim deploy_nginx.yaml
+root@elliot-01:~# # kubectl create -f deploy_nginx.yaml
+root@elliot-01:~# # kubectl edit deployment nginx
+root@elliot-01:~# # kubectl get rs nginx3-6bccbcb6c -o yaml > deploy_ds.yaml
+root@elliot-01:~# # kubectl create -f deploy_ds.yaml
+root@elliot-01:~# # kubectl edit ds nginx3-6bccbcb6c
+root@elliot-01:~# # kubectl get ds
+20:19:05	 From  Francislei Silva : Jeferson, tem como configurar variáveis de ambiente nesse yaml?
+20:20:05	 From  Alexsandro Pereira  to  All panelists : sim
+20:20:06	 From  Francislei Silva : S
+20:20:10	 From  darianoSOARES  to  All panelists : s
+20:20:14	 From  Paulo Souza  to  All panelists : sim
+20:20:24	 From  Marcio Mansur  to  All panelists : jefferson, tenho duas duvidas: em uma situação de dev/prod, supondo que vc queira deixar os yml dos seus serviços em um repo, por exemplo, vc deveria criar o pod, o deployment e o replica set no mesmo arquivo?
+20:20:33	 From  Sergio Pereira  to  All panelists : show de bola
+20:21:09	 From  Marcio Mansur  to  All panelists : saquei, bele!
+20:21:23	 From  Davi Gomes : Kd o cat?
+20:21:33	 From  Jeferson Fernando Noronha  to  All panelists : 863  # kubectl get deployment nginx -o yaml > deploy_nginx.yaml
+  864  # kubectl run nginx --image nginx --port 80
+  865  # kubectl get deployment nginx -o yaml > deploy_nginx.yaml
+  866  # vim deploy_nginx.yaml
+  867  # kubectl create -f deploy_nginx.yaml
+  868  # kubectl edit deployment nginx
+  869  # kubectl get rs nginx3-6bccbcb6c -o yaml > deploy_ds.yaml
+  870  # kubectl create -f deploy_ds.yaml
+  871  # kubectl edit ds nginx3-6bccbcb6c
+  872  # kubectl get ds
+  873  vim deploy_nginx.yaml
+  874  history
+  875  #kubectl get node -l disk=hdd
+  876  # kubectl get node -l disk=hdd
+  877  # kubectl get deployment,pods,rs,ds -l disk=hdd
+  878  # kubectl get rs  -L dc
+  879  history | grep ^#
+  880  history | grep #
+  881  history
+root@elliot-01:~# # kubectl label node elliot-03 disk=ssd
+root@elliot-01:~# # kubectl rollout history deployment nginx5 --revision 2
+root@elliot-01:~# # kubectl rollout history deployment nginx5 --revision 2
+root@elliot-01:~# # kubectl rollout history deployment nginx5
+20:23:47	 From  Bruno Medico  to  All panelists : gostei
+20:23:50	 From  Alexsandro Pereira  to  All panelists : alem de mundar o labels run pra nginx2
+20:23:58	 From  Carlos Augusto Malucelli : caralaa
+20:23:59	 From  darianoSOARES  to  All panelists : kkkkk
+20:24:16	 From  Alexsandro Pereira  to  All panelists : tem que mudar p labels run pra nginx2 tambem?
+20:24:17	 From  Bruno Medico  to  All panelists : vc eh o cara
+20:24:28	 From  Marcio Mansur  to  All panelists : que susto que eu tomei
+20:24:30	 From  Sergio Pereira  to  All panelists : e por essas e outra... e vc tem q ser monitorado...kk
+20:24:31	 From  Paulo Souza  to  All panelists : - "Alo - é do consultorio do doutor Carlos, cardiologista.."
+20:24:39	 From  Kaio Nascimento : joveeeem
+20:24:42	 From  Jeferson Fernando Noronha  to  All panelists : hahahahahhaha
+20:24:54	 From  Kaio Nascimento : da um set number aii pls
+20:25:19	 From  Luiz Doniec  to  All panelists : mostra a sintaxe do daemonset, por favor
+20:26:30	 From  Bruno Medico  to  All panelists : to nao
+20:26:55	 From  darianoSOARES  to  All panelists : tem que alterar o name para nginx2
+20:27:08	 From  Bruno Medico  to  All panelists : qual sintaxe ?
+20:27:21	 From  darianoSOARES  to  All panelists : selfLink: /apis/extensions/v1beta1/namespaces/default/deployments/nginx2
+20:30:00	 From  Jeferson Fernando Noronha  to  All panelists : # kubectl label node elliot-03 disk=ssd
+20:30:51	 From  Jeferson Fernando Noronha  to  All panelists : 863  # kubectl get deployment nginx -o yaml > deploy_nginx.yaml   864  # kubectl run nginx --image nginx --port 80   865  # kubectl get deployment nginx -o yaml > deploy_nginx.yaml   866  # vim deploy_nginx.yaml   867  # kubectl create -f deploy_nginx.yaml   868  # kubectl edit deployment nginx   869  # kubectl get rs nginx3-6bccbcb6c -o yaml > deploy_ds.yaml   870  # kubectl create -f deploy_ds.yaml   871  # kubectl edit ds nginx3-6bccbcb6c   872  # kubectl get ds   873  vim deploy_nginx.yaml   874  history   875  #kubectl get node -l disk=hdd   876  # kubectl get node -l disk=hdd   877  # kubectl get deployment,pods,rs,ds -l disk=hdd   878  # kubectl get rs  -L dc   879  history | grep ^#   880  history | grep #   881  history root@elliot-01:~# # kubectl label node elliot-03 disk=ssd root@elliot-01:~# # kubectl rollout history deployment nginx5 --revision 2 root@elliot-01:~# # kubectl rollout history deployment nginx5 --revision 2 root@elliot-01:~# # kubectl rollout history deployment nginx5
+20:32:35	 From  Rousseau Braga  to  All panelists : organização somente
+20:32:46	 From  Luiz Doniec  to  All panelists : daria pra identificar algo da aplicação ou algo assim
+20:32:54	 From  Bruno Medico  to  All panelists : pode colocar qualquer coisa...
+20:32:57	 From  Bruno Medico  to  All panelists : tipo
+20:33:00	 From  Bruno Medico  to  All panelists : dc = abobrinha
+20:33:15	 From  Bruno Medico  to  All panelists : dc = beterraba
+20:33:15	 From  Carlos Augusto Malucelli : normal ... eh so uma label
+20:33:25	 From  Carlos Augusto Malucelli : no mundo real .. vc tagaria com os labels
+20:33:38	 From  Rousseau Braga  to  All panelists : dc = data center
+20:33:54	 From  Rousseau Braga  to  All panelists : co = comarca 
+20:34:04	 From  Rousseau Braga  to  All panelists : city= Sao Paulo 
+20:34:40	 From  Alexsandro Pereira  to  All panelists : entendido
+20:36:02	 From  Alexsandro Pereira  to  All panelists : label:  tenant: clienteY
+20:38:50	 From  Sergio Pereira  to  All panelists : aki foi
+20:38:52	 From  Kaio Nascimento : calma jovem haha
+20:39:13	 From  Jeferson Fernando Noronha  to  All panelists : 864  # kubectl run nginx --image nginx --port 80   865  # kubectl get deployment nginx -o yaml > deploy_nginx.yaml
+20:39:17	 From  Davi Gomes : fiz algumas coisas, hj o ritmo tá acelerado, no fds eu faço com calma
+20:39:45	 From  Davi Gomes : kkkkkkk
+20:39:46	 From  Sergio Pereira  to  All panelists : ligo no 220
+20:39:47	 From  Carlos Augusto Malucelli : ta strikinado
+20:40:02	 From  Paulo Souza  to  All panelists : tem que diminuir no açucar
+20:40:07	 From  Davi Gomes : Depois da pausa
+20:43:41	 From  Jeferson Fernando Noronha  to  All panelists : 869  # kubectl get rs nginx3-6bccbcb6c -o yaml > deploy_ds.yaml
+20:44:56	 From  Carlos Augusto Malucelli : replicaset
+20:50:48	 From  Kaio Nascimento : booa
+20:51:35	 From  Bruno Medico  to  All panelists : vc criou a label no node ?
+20:51:58	 From  darianoSOARES  to  All panelists : estou com o mesmo problema
+20:52:50	 From  Marcio Mansur  to  All panelists : [node1 /]$ kubectl get ds -l env=prod
+No resources found.
+20:53:01	 From  Marcio Mansur  to  All panelists : node1 /]$ kubectl get ds -L dc
+NAME                DESIRED   CURRENT   READY     UP-TO-DATE   AVAILABLE   NODE SELECTOR   AGE       DC
+nginx2-8545cc8655   0         0         0         0            0           env=prod        6m        UK
+20:53:53	 From  Marcio Mansur  to  All panelists : [node1 /]$ kubectl get ds
+NAME                DESIRED   CURRENT   READY     UP-TO-DATE   AVAILABLE   NODE SELECTOR   AGE
+nginx2-8545cc8655   0         0         0         0            0           env=prod        10m
+20:55:01	 From  Francislei Silva : Caso coloquemos espaço entre a vírgula e o artefatos, ex: kubectl get deployment, pods, rs, ds
+20:55:07	 From  Francislei Silva : terá como retorno:
+20:55:07	 From  Francislei Silva : error: arguments in resource/name form must have a single resource and name
+20:56:01	 From  darianoSOARES  to  All panelists : está ok, estava fazendo o filtro erro
+20:58:42	 From  Francislei Silva : Caracas, sempre pensei que era mó treta kubernetes, mas é de boa.
+20:59:11	 From  Francislei Silva : Conteúdo bem feito e bem explicado.
+20:59:11	 From  Alexsandro Pereira  to  All panelists : ta ficando de boa sim
+20:59:23	 From  Carlos Augusto Malucelli : kkkk
+20:59:23	 From  Kaio Nascimento : AHAAHAHA
+20:59:30	 From  Davi Gomes : kkkkkk lascou
+20:59:55	 From  Marcio Mansur  to  All panelists : kkkk pra mim foi foda pq perdi a aula de terça pois fui tirar o visto, ainda não consegui fazer um catch up com a ultima aula
+21:00:00	 From  Carlos Augusto Malucelli : kra eh tranquilo ... mas eh coisa para um capeta senegalez
+21:02:46	 From  Alexsandro Pereira  to  All panelists : pois é.. k8s é muitooo rico pelo que estou vendo.
+21:09:23	 From  Carlos Augusto Malucelli : pqp
+21:09:31	 From  Sergio Pereira  to  All panelists : pqp
+21:09:53	 From  Sergio Pereira  to  All panelists : kkkkk
+21:09:55	 From  Carlos Augusto Malucelli : tenhos as fotos desse esquema
+21:10:01	 From  Carlos Augusto Malucelli : genios voando
+21:10:21	 From  Guilherme Calcette  to  All panelists : jesus mande isso no telegram la
+21:10:22	 From  Guilherme Calcette  to  All panelists : UAHUSHAAS
+21:10:22	 From  Francislei Silva : Vou começar a deixar no mute durante o intervalo….todo dia me assusto….
+21:11:46	 From  Carlos Augusto Malucelli : passou bem perto dele
+21:11:47	 From  Carlos Augusto Malucelli : kkkk
+21:11:57	 From  Francislei Silva : Sacanagem é vc trampar com um surdo, ele receber o gemidao do WhatsApp e ficar assistindo com volume alto…rs..rsrs…baita sacanagem
+21:12:00	 From  Sergio Pereira  to  All panelists : so mais um pouco
+21:12:08	 From  Sergio Pereira  to  All panelists : mal comi
+21:12:09	 From  Sergio Pereira  to  All panelists : kk
+21:14:17	 From  Sergio Pereira  to  All panelists : e se eu quero add um node.. mais perdi o join
+21:15:43	 From  Bruno Medico  to  All panelists : kubectl get secret
+21:16:26	 From  Bruno Medico  to  All panelists : kubeadm join --token COLOCAAQUIOTOKEN --discovery-token-unsafe-skip-ca-verification 192.168.1.26:6443
+21:16:40	 From  Bruno Medico  to  All panelists : e troca o ip do seu server
+21:16:41	 From  Guilherme Calcette  to  All panelists : a ideia é usar os labels nos services?
+21:18:56	 From  Luiz Doniec  to  All panelists : vai funcionar em qlq nó do cluster?
+21:19:08	 From  Alexsandro Pereira  to  All panelists : type node LoadBalancer vs NodePort?
+21:19:17	 From  Guilherme Calcette  to  All panelists : vai
+21:19:25	 From  Alexsandro Pereira  to  All panelists : qual é a diferença?
+21:19:48	 From  Jeferson Fernando Noronha  to  All panelists : http://ec2-54-198-151-49.compute-1.amazonaws.com:30585/
+21:19:55	 From  Rousseau Braga  to  All panelists : se eu quiser definir uma porta especifica??
+21:19:57	 From  Alexsandro Pereira  to  All panelists : o meu ta nginx        LoadBalancer   10.104.184.0   <pending>     80:32024/TCP
+21:20:18	 From  Alexsandro Pereira  to  All panelists : o meu ta loadbancer
+21:20:43	 From  Alexsandro Pereira  to  All panelists : ahm ta
+21:22:20	 From  Bruno Medico  to  All panelists : como que vc riscou a tela  ?
+21:23:01	 From  Bruno Medico  to  All panelists : vc eh tipo um mago
+21:23:17	 From  Bruno Medico  to  All panelists : legal esse ai
+21:24:06	 From  Rousseau Braga  to  All panelists : eu posso escolher uma porta especifica ??
+21:24:20	 From  Alexsandro Pereira  to  All panelists : rs...
+21:25:01	 From  Alexsandro Pereira  to  All panelists : que coisa........ 
+21:25:08	 From  Guilherme Calcette  to  All panelists : calma jove aushasuhsa
+21:25:11	 From  Alexsandro Pereira  to  All panelists : como o jeff disse...
+21:25:14	 From  Carlos Augusto Malucelli : kkkk
+21:25:20	 From  Alexsandro Pereira  to  All panelists : tudo é via yaml
+21:25:41	 From  Alexsandro Pereira  to  All panelists : será que o edit funciona?
+21:25:44	 From  Carlos Augusto Malucelli : ala .. respira jovem
+21:25:45	 From  Carlos Augusto Malucelli : kkkk
+21:25:49	 From  Guilherme Calcette  to  All panelists : ai que vem a decepção
+21:25:53	 From  Bruno Medico  to  All panelists : so acima de 30k
+21:25:54	 From  Guilherme Calcette  to  All panelists : UASHUSAHUSA
+21:26:03	 From  Alexsandro Pereira  to  All panelists : nao tem problema
+21:26:18	 From  Alexsandro Pereira  to  All panelists : o impotante é escolher a porta rs..
+21:26:25	 From  Guilherme Calcette  to  All panelists : hahah show
+21:26:38	 From  Rousseau Braga  to  All panelists : se a aplicação for um rails na porta 3000
+21:26:46	 From  Rousseau Braga  to  All panelists : ou angular 4200
+21:26:47	 From  Alexsandro Pereira  to  All panelists : o que tem?
+21:27:08	 From  Carlos Augusto Malucelli : o rails é tipo o marea dos códigos .. se tiver na porta 3000 vai explidor
+21:27:15	 From  Carlos Augusto Malucelli : zueira :D
+21:28:14	 From  Davi Gomes : Meu cluster sempre estará em portas acima de 30k?
+21:28:21	 From  Bruno Medico  to  All panelists : sim
+21:28:30	 From  Alexsandro Pereira  to  All panelists : fino!
+21:28:58	 From  Luiz Doniec  to  All panelists : a questão dos ingress?
+21:28:59	 From  Davi Gomes : e no dia a dia, como usa na porta 80?
+21:29:00	 From  Francislei Silva : Tem alguma razão o pk da porta ser acima do 30k? Ou Deus quiz assim e ponto?
+21:29:15	 From  Luiz Doniec  to  All panelists : dá pra usar um balancer interno, tipo haproxy ou o proprio nginx?
+21:31:10	 From  Bruno Medico  to  All panelists : francislei..  sim Deus quiz assim
+21:31:25	 From  Francislei Silva : kkkk
+21:31:25	 From  Bruno Medico  to  All panelists : LB - haproxy \o/
+21:31:48	 From  Alexsandro Pereira  to  All panelists : vai por o haproxy na porta 80 como?
+21:32:16	 From  Davi Gomes : kkkkkk
+21:32:19	 From  Carlos Augusto Malucelli : traefik?
+21:33:21	 From  Alexsandro Pereira  to  All panelists : eu queria usar um ALB da vida
+21:33:29	 From  Francislei Silva : s
+21:33:40	 From  Luis Marta : sim
+21:33:41	 From  Luiz Doniec  to  All panelists : s
+21:33:45	 From  Bruno Medico  to  All panelists : s
+21:33:47	 From  Alexsandro Pereira  to  All panelists : simmm
+21:33:47	 From  Sergio Pereira  to  All panelists : sim
+21:33:48	 From  Kaio Nascimento : foi jovem
+21:33:48	 From  Bruno Medico  to  All panelists : simmmmmmmmmmmm
+21:33:48	 From  Sergio Pereira  to  All panelists : sim
+21:33:49	 From  Sergio Pereira  to  All panelists : sim
+21:33:52	 From  Guilherme Calcette  to  All panelists : uhaushaushauhsa
+21:33:53	 From  Francislei Silva : s
+21:33:53	 From  Bruno Medico  to  All panelists : <3
+21:33:53	 From  Francislei Silva : s
+21:33:54	 From  Francislei Silva : s
+21:33:54	 From  Francislei Silva : s
+21:33:54	 From  darianoSOARES  to  All panelists : s
+21:33:54	 From  Francislei Silva : s
+21:33:54	 From  Francislei Silva : s
+21:33:54	 From  Francislei Silva : s
+21:33:55	 From  Francislei Silva : s
+21:33:55	 From  Francislei Silva : s
+21:33:55	 From  Francislei Silva : s
+21:33:55	 From  Francislei Silva : s
+21:34:24	 From  Guilherme Calcette  to  All panelists : TUDO SUSSA
+21:34:38	 From  Alexsandro Pereira  to  All panelists : NFS? :D
+21:35:01	 From  Guilherme Calcette  to  All panelists : Quero usar o gitRepo suahsauhsa
+21:35:14	 From  Alexsandro Pereira  to  All panelists : quero usar o NFS
+21:35:43	 From  Alexsandro Pereira  to  All panelists : serio? gitRepo
+21:35:51	 From  Guilherme Calcette  to  All panelists : serio mano
+21:35:54	 From  Sergio Pereira  to  All panelists : S3
+21:36:02	 From  Guilherme Calcette  to  All panelists : o barato monta um volume clonando um git
+21:36:02	 From  Alexsandro Pereira  to  All panelists : oiaaaa
+21:36:04	 From  Guilherme Calcette  to  All panelists : genial sauhsusa
+21:36:20	 From  Alexsandro Pereira  to  All panelists : alta dispo?
+21:36:29	 From  Alexsandro Pereira  to  All panelists : hi I/O?
+21:38:14	 From  Eric Leme : Obs: para o centos “yum install nfs-utils”
+21:41:14	 From  Alexsandro Pereira  to  All panelists : isto ai é legal...
+21:41:21	 From  Alexsandro Pereira  to  All panelists : isto costuma dar pau?
+21:41:27	 From  Marcio Mansur  to  All panelists : tem como montar o volume em um EFS da vida?
+21:41:42	 From  Alexsandro Pereira  to  All panelists : Elastic File System?
+21:41:45	 From  Marcio Mansur  to  All panelists : sim
+21:42:03	 From  Carlos Augusto Malucelli  to  All panelists : kkkk
+21:42:12	 From  Carlos Augusto Malucelli  to  All panelists : ceph
+21:42:12	 From  Alexsandro Pereira  to  All panelists : se da erro de montar, de reboot
+21:42:13	 From  Sergio Pereira  to  All panelists : s3
+21:42:14	 From  Alexsandro Pereira  to  All panelists : etc..
+21:42:25	 From  Alexsandro Pereira  to  All panelists : entendi
+21:42:47	 From  Carlos Augusto Malucelli  to  All panelists : tome essa
+21:43:00	 From  Guilherme Calcette  to  All panelists : na lata sauhsau
+21:44:35	 From  Alexsandro Pereira  to  All panelists : vou fazer aqui.. depois voce cola pra eu salvar os comandos
+21:45:07	 From  Alexsandro Pereira  to  All panelists : sim
+21:45:19	 From  Carlos Augusto Malucelli  to  All panelists : lazy mode sempre
+21:45:28	 From  Alexsandro Pereira  to  All panelists : :P
+21:45:34	 From  Francislei Silva : N sei o que aconteceu, mas depois que comentei aqui do Internet bank do Santander, n tive mais problema com indisponibilidade….kakaka…encontramos qm resolve a parada…
+21:46:06	 From  Pedro Vara : seloco
+21:46:08	 From  Kaio Nascimento : Pedrinho arrumou
+21:46:23	 From  Luis Marta : o.0
+21:46:24	 From  Pedro Vara : hahahahahahahaha
+21:46:24	 From  Kaio Nascimento : haahahahaa
+21:46:29	 From  Pedro Vara : Qq se ta precisando?
+21:46:32	 From  Carlos Augusto Malucelli  to  All panelists : tem que tirar essa putar*(*&(*& de ir no caixa liberar o celular
+21:46:32	 From  Pedro Vara : hahah
+21:46:34	 From  Carlos Augusto Malucelli  to  All panelists : dai fica bala
+21:46:48	 From  Francislei Silva : Esses dias fiquei 2 dias com problema para transferir…liguei no super linha e pedi o e-mail ou telefone do diretor de TI…rsrsrs…a menina começou a rir…rsrs
+21:47:52	 From  Francislei Silva : Jeferson, depois tem como vc comentar sobre os erros comuns que vc se depara no dia a dia?
+21:48:50	 From  Bruno Medico  to  All panelists : mudou todo o site do santander.. dai subiu meu cartão..
+21:48:58	 From  Bruno Medico  to  All panelists : normal
+21:50:00	 From  Carlos Augusto Malucelli  to  All panelists : cada um tem o selinux que merece
+21:50:25	 From  Carlos Augusto Malucelli  to  All panelists : eu abandonei as minhas da redhat ... seloco
+21:50:36	 From  Sergio Pereira  to  All panelists : vai a dica
+21:50:48	 From  Carlos Augusto Malucelli  to  All panelists : venceu em dezembro ... mandei pas picas
+21:50:49	 From  Sergio Pereira  to  All panelists : https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/security-enhanced_linux/sect-security-enhanced_linux-enabling_and_disabling_selinux-disabling_selinux
+21:50:49	 From  Eric Leme : olha eu apanhando aqui com o nfs
+21:51:01	 From  Eric Leme : tinha esquecido de dar start no serviço kkkk
+21:51:03	 From  Carlos Augusto Malucelli  to  All panelists : na vdd so fazer uma nova .. renova td
+21:51:22	 From  Carlos Augusto Malucelli  to  All panelists : nada ... eui fiz de rhev .. renovou td
+21:51:45	 From  Alexsandro Pereira  to  All panelists : funcinouuu
+21:51:54	 From  Alexsandro Pereira  to  All panelists : heehhe
+21:51:55	 From  Davi Gomes : sim
+21:52:04	 From  Guilherme Calcette  to  All panelists : bora
+21:52:05	 From  Kaio Nascimento : segue o baile 
+21:52:06	 From  Alexsandro Pereira  to  All panelists : sim
+21:52:07	 From  Luiz Doniec  to  All panelists : suave
+21:52:14	 From  Sergio Pereira  to  All panelists : quse
+21:52:17	 From  Marcio Mansur  to  All panelists : pode seguir, latencia aqui com server ta foda
+21:52:17	 From  Sergio Pereira  to  All panelists : quase
+21:52:24	 From  Sergio Pereira  to  All panelists : 1 min
+21:52:28	 From  Francislei Silva : Mano, ta tao da hora que já são 22 hrs…ta voando a aula…tem que extender mais 1 semana ai….kakakaka
+21:52:57	 From  Guilherme Calcette  to  All panelists : se ta doido . 3 semanas aguentando esse cara falando UAHSUASHUHUS
+21:53:41	 From  Francislei Silva : kkkk….Pior que eu já falo alto, essa semana ta osso…varias colegas falaram: vc ta pilhado, oque ta acontecendo?
+21:53:48	 From  Francislei Silva : Isso contagia…cuidado…rsrsrs
+21:54:41	 From  Marcio Mansur  to  All panelists : efs da aws tambem? vc falou só do ebs
+21:55:01	 From  Jeferson Fernando Noronha  to  All panelists : https://kubernetes.io/docs/concepts/storage/volumes/
+21:55:04	 From  Carlos Augusto Malucelli  to  All panelists : cara glusterfs usei na loca so .. sabe se hj em dia está melhor ? ne epoca era uma desgraça
+21:55:29	 From  Jeferson Fernando Noronha  to  All panelists : awsElasticBlockStore
+azureDisk
+azureFile
+cephfs
+configMap
+csi
+downwardAPI
+emptyDir
+fc (fibre channel)
+flocker
+gcePersistentDisk
+gitRepo
+glusterfs
+hostPath
+iscsi
+local
+nfs
+persistentVolumeClaim
+projected
+portworxVolume
+quobyte
+rbd
+scaleIO
+secret
+storageos
+vsphereVolume
+21:58:49	 From  Carlos Augusto Malucelli  to  All panelists : to de pe desde as 6:40 hj
+21:58:51	 From  Carlos Augusto Malucelli  to  All panelists : to so o po
+22:00:27	 From  Guilherme Calcette  to  All panelists : a CodeOps ta com a easynvest ? 
+22:00:37	 From  Guilherme Calcette  to  All panelists : arruma esse site ai . fica fora todo fds sauhsausha
+22:01:23	 From  Ericsson de Lima  to  All panelists : é a lei da vida, ahsuhasush
+22:02:01	 From  Alexsandro Pereira  to  All panelists : tensoo
+22:02:31	 From  Bruno Medico  to  All panelists : ....  kkk o jeff.. quer o sistema do black mirror 4-2
+22:02:42	 From  Pedro Vara : misericordia
+22:02:43	 From  Pedro Vara : hahaha
+22:03:01	 From  Carlos Augusto Malucelli  to  All panelists : kkkk
+22:03:12	 From  Alexsandro Pereira  to  All panelists : comedia rs...
+22:03:38	 From  Jeferson Fernando Noronha  to  All panelists : kind: PersistentVolume
+apiVersion: v1
+metadata:
+  name: meu-vol
+  labels:
+    type: local
+spec:
+  capacity:
+    storage: 100M
+  accessModes:
+  - ReadWriteMany
+  persistentVolumeReclaimPolicy: Retain
+  nfs:
+    path: /opt/giropops
+    server: 172.31.3.51
+    readOnly: false
+22:04:09	 From  Davi Gomes : s
+22:04:09	 From  Kaio Nascimento : sim
+22:04:10	 From  Luis Marta : sim
+22:04:12	 From  Francislei Silva : s
+22:04:13	 From  Luiz Doniec  to  All panelists : s
+22:04:16	 From  Alexsandro Pereira  to  All panelists : sim
+22:08:01	 From  Bruno Medico  to  All panelists : foi...
+22:08:23	 From  Bruno Medico  to  All panelists : Mi é de Mega
+22:08:29	 From  Alexsandro Pereira  to  All panelists : e M ?
+22:08:35	 From  Carlos Augusto Malucelli  to  All panelists : mega bits
+22:08:48	 From  Alexsandro Pereira  to  All panelists : Mi é mbps entao e
+22:09:31	 From  Alexsandro Pereira  to  All panelists : terminei
+22:10:43	 From  Bruno Medico  to  All panelists : simmmm
+22:10:47	 From  Jeferson Fernando Noronha  to  All panelists : kind: PersistentVolumeClaim
+apiVersion: v1
+metadata:
+  name: meu-pvc
+spec:
+  accessModes:
+  - ReadWriteMany
+  resources:
+    requests:
+      storage: 10Mi
+22:11:22	 From  Bruno Medico  to  All panelists : so tem 1 no pv
+22:12:44	 From  Guilherme Calcette  to  All panelists : :set nu
+22:16:27	 From  Rousseau Braga  to  All panelists : não tem como validar antes de criar????
+22:17:21	 From  Rousseau Braga  to  All panelists : validar o yaml 
+22:18:02	 From  Marcio Mansur  to  All panelists : da pra usar um linter no vim ou o editor que vc estiver escrevendo o yml
+22:19:08	 From  Alexsandro Pereira  to  All panelists : \o/
+22:19:26	 From  darianoSOARES  to  All panelists : vscode
+22:19:29	 From  Rousseau Braga  to  All panelists : não tem como validar antes de criar???? 
+validar o yam
+22:19:30	 From  Alexsandro Pereira  to  All panelists : é
+22:19:34	 From  Alexsandro Pereira  to  All panelists : ele ta viajando
+22:19:34	 From  darianoSOARES  to  All panelists : muito foda
+22:19:35	 From  Rousseau Braga  to  All panelists : esta viajando 
+22:19:45	 From  Luiz Doniec  to  All panelists : kkkkkkk
+22:19:46	 From  Rousseau Braga  to  All panelists : não tem como validar antes de criar???? 
+validar o yam
+22:19:46	 From  Pedro Vara : Eh bom esse Visual Studio eu uso
+22:19:49	 From  Francislei Silva : https://code.visualstudio.com/download
+22:19:58	 From  Marcio Mansur  to  All panelists : tambem uso, é mto foda
+22:19:58	 From  Jeferson Fernando Noronha  to  All panelists : https://code.visualstudio.com/
+22:20:01	 From  Rousseau Braga  to  All panelists : não tem como validar antes de criar???? 
+validar o yaml
+22:20:04	 From  Pedro Vara : ele tem um terminal integrado
+22:20:09	 From  Carlos Augusto Malucelli  to  All panelists : curto o atom
+22:20:10	 From  Pedro Vara : Ja abre no directorio que vc ta codando
+22:20:12	 From  Alexsandro Pereira  to  All panelists : eu tambem uso
+22:20:23	 From  Rousseau Braga  to  All panelists : não tem como validar antes de criar???? 
+validar o yaml
+22:20:40	 From  Luiz Doniec  to  All panelists : quem diria, ferramenta MS sendo usada no linux
+22:20:41	 From  Luiz Doniec  to  All panelists : kkkk
+22:20:45	 From  Luiz Doniec  to  All panelists : tempos modernos
+22:20:52	 From  Pedro Vara : Eu uso no mac
+22:21:14	 From  Rousseau Braga  to  All panelists : não tem como validar antes de criar???? 
+validar o yam
+22:21:33	 From  darianoSOARES  to  All panelists : pluging para o vscode YAML support by Red Hat
+22:22:48	 From  Francislei Silva : Sobre validação achei esse aqui https://github.com/garethr/kubeval, não é nativo. Será que temos algo nativo?
+22:23:01	 From  Rousseau Braga  to  All panelists : do mesmo jeito com nfs posso fazer com um volume docker ???
+22:23:40	 From  Marcio Mansur  to  All panelists : ou, vi um tutorial esses dias, por isso perguntei do EFS, da pra vc subir um EFS e usar ele como volume do seu cluster, configurar pra fazer backup. Desse jeito vc nunca vai perder
+22:23:41	 From  Marcio Mansur  to  All panelists : https://ngineered.co.uk/blog/using-amazon-efs-to-persist-and-share-between-conatiners-data-in-kubernetes
+22:23:42	 From  Alexsandro Pereira  to  All panelists : acredito que sim...
+22:24:09	 From  Marcio Mansur  to  All panelists : e sai mais barato que block storage
+22:26:06	 From  Alexsandro Pereira  to  All panelists : neste exemplo ai ta usando o antigo ReplicationController
+22:26:09	 From  Francislei Silva : Esse silencio, só o som de teclado, me faz lembrar implantação da madrugada…rsrsrs
+22:27:26	 From  Davi Gomes : É um exercício ou uma certificação?
+22:28:52	 From  Carlos Augusto Malucelli  to  All panelists : "vc pra mim é problema seu"
+22:30:00	 From  Fabricio Candido  to  All panelists : TCC
+22:31:30	 From  Eric Leme : Para segunda feira a gente tenta rs
+22:32:59	 From  Luis Marta : sim
+22:33:00	 From  Marcio Mansur  to  All panelists : sim!
+22:33:02	 From  Davi Gomes : sim
+22:33:02	 From  Luiz Doniec  to  All panelists : sim
+22:33:04	 From  Sergio Pereira  to  All panelists : fecho
+22:33:04	 From  darianoSOARES  to  All panelists : s
+22:33:04	 From  Luiz Doniec  to  All panelists : suave
+22:33:09	 From  Sergio Pereira  to  All panelists : de boa
+22:33:12	 From  Sergio Pereira  to  All panelists : bora la
+22:33:26	 From  Alexsandro Pereira  to  All panelists : nao\
+22:33:37	 From  Alexsandro Pereira  to  All panelists : no link do cara la
+22:33:43	 From  Eric Leme : para qual data temos que entregar? Rs tem como adiantar esse questionário para a gente?
+22:34:00	 From  Luis Marta : Jeff, copia aqui o exercício, pls
+22:34:13	 From  Eric Leme : Adiantar = compartilhar kkkk
+22:34:17	 From  Jeferson Fernando Noronha  to  All panelists : 1 - Criar um deployment para o nginx com a seguintes caracteristas:
+        Replicas 5
+        Port 80 TCP
+        Volume para o /usr/share/nginx/html
+        index personalisada
+        Deve rodar em UK
+
+
+2 - Criar um service do tipo nodeport e com a porta 31212 bindando no host
+
+3 - Exportar o diretorio /k8s via nfs
+
+4 - criar um PV com 150M utilizando o nosso fs NFS
+
+5 - criar um pvc utilizando o nosso fs NFS
+
+6 - montar o volume no pod em /usr/share/nginx/html com o index personalizado
+
+7 - Criar um label indicando se eh producao ou dev e outro indicando o nome da app.
+
+8 - setar um label dc=BR para o node-1, dc=USA node-2 e dc=UK node-3
+
+
+ARQUIVOS QUE TEREMOS: deployment.yaml service.yaml pv.yaml pvc.yaml
+
+Sim, esta tudo fora de ordem, problema seu para organizar
+
+IMPORTANTE - Os arquivos usados no exercicio deverao estar em um repo git com o nome: SeuNome_k8sXP
+22:34:24	 From  Eric Leme : boa
+22:34:41	 From  Luiz Doniec  to  All panelists : vai ter requisitos de banda?
+22:34:44	 From  Luiz Doniec  to  All panelists : pro pvc?
+22:35:29	 From  Luiz Doniec  to  All panelists : tranquilo
+22:35:29	 From  Luiz Doniec  to  All panelists : vlws
+22:35:36	 From  Alexsandro Pereira  to  All panelists : 5
+22:35:39	 From  Sergio Pereira  to  All panelists : 1000
+22:35:42	 From  Luis Marta : pode voltar no DC, pegar a segunda parte de montar o volume, pls
+22:35:43	 From  Francislei Silva : Difícil ta esse sono aqui
+22:35:46	 From  Davi Gomes : Qual a data da recuperação?
+22:35:58	 From  Carlos Augusto Malucelli  to  All panelists : dificuldade 5 ... vontade 0 (capotando aqui fortemente)
+22:36:05	 From  Eric Leme : De 0 a 10, over 8000
+22:36:18	 From  Luis Marta : no DC pra montar o volume
+22:36:22	 From  Luis Marta : este ultimo que fizemos
+22:36:39	 From  Luis Marta : este mesmo, valeu
+22:36:46	 From  Jeferson Fernando Noronha  to  All panelists : spec:
+      containers:
+      - image: nginx
+        imagePullPolicy: Always
+        name: nginx
+        volumeMounts:
+        - name: nfs-vol
+          mountPath: /opt
+        ports:
+        - containerPort: 80
+          protocol: TCP
+        resources: {}
+        terminationMessagePath: /dev/termination-log
+        terminationMessagePolicy: File
+      nodeSelector:
+        disk: hdd
+      dnsPolicy: ClusterFirst
+      restartPolicy: Always
+      schedulerName: default-scheduler
+      securityContext: {}
+      terminationGracePeriodSeconds: 30
+      volumes:
+      - name: nfs-vol
+        persistentVolumeClaim:
+          claimName: meu-pvc
+22:36:54	 From  Luis Marta : TKS
+22:37:08	 From  Luis Marta : declarar
+22:37:22	 From  Davi Gomes : treta
+22:37:23	 From  Sergio Pereira  to  All panelists : bora dormir
+22:37:39	 From  Davi Gomes : Fácil pro cara q é certificado
+22:38:01	 From  Alexsandro Pereira  to  All panelists : nao é dificil, so é trabalhoso
+22:38:20	 From  Alexsandro Pereira  to  All panelists : é
+22:38:26	 From  Pedro Vara : Depois de 10 vezes, ja fica de boa
+22:38:32	 From  Guilherme Calcette  to  All panelists : é bem tranquio . tudo YAML sussa sauhsusa
+22:38:35	 From  Pedro Vara : simm
