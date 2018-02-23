@@ -1,0 +1,16 @@
+kind: PersistentVolume
+apiVersion: v1
+metadata:
+  name: pv-nginx
+  labels:
+    type: local
+spec:
+  capacity:
+    storage: 150M
+  accessModes:
+  - ReadWriteMany
+  persistentVolumeReclaimPolicy: Retain
+  nfs:
+    path: /opt/k8s
+    server: 172.19.2.158
+    readOnly: false
