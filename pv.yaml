@@ -12,5 +12,5 @@ spec:
   persistentVolumeReclaimPolicy: Retain
   nfs:
     path: /opt/k8s
-    server: 172.19.2.158
+    server: 10.128.0.3
     readOnly: false
