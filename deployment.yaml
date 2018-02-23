@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   labels:
     run: nginx
-    ambiente: prod
+    ambiente: teste
   name: nginx
   namespace: default
 spec:
