@@ -1,7 +1,7 @@
 kind: PersistentVolume
 apiVersion: v1
 metadata:
-  name: pv-nginx
+  name: pv-n-exec
   labels:
     type: local
 spec:
